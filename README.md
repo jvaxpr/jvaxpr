@@ -4,7 +4,7 @@
 
 🎓 Actualmente estoy estudiando mi titulo profesional de ing. de sistemas y cumputación.
 
-💻 Me encanta trabajar en proyectos con Typescript, JavaScript, C#, Node, Python, AWS y SQL.
+💻 Me encanta trabajar en proyectos con JavaScript, C#, Node, Python, AWS y SQL.
 
 🚀 Me dedico a mantenerme al día con las últimas tecnologías y tendencias del mundo tecnológico.
 
