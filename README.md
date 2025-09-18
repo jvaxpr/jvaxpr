@@ -10,7 +10,7 @@
 
 📫 Puedes contactarme en Javier.pena.rangel@gmail.com 
 
-¡Codifiquemos y construyamos cosas increíbles juntos! 👨‍💻👩‍💻
+¡Codifiquemos y construyamos cosas increíbles juntos! 👨‍💻
 
 
 ### CONNECT WITH ME:
