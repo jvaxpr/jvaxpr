@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**jvaxpr/jvaxpr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola, soy Javier Peña!
 
-Here are some ideas to get you started:
+🎓 Actualmente estoy estudiando mi titulo profesional de ing. de sistemas y cumputación.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Me encanta trabajar en proyectos con Typescript, JavaScript, C#, Node, Python, AWS y SQL.
+
+🚀 Me dedico a mantenerme al día con las últimas tecnologías y tendencias del mundo tecnológico.
+
+📫 Puedes contactarme en Javier.pena.rangel@gmail.com 
+
+¡Codifiquemos y construyamos cosas increíbles juntos! 👨‍💻👩‍💻
+
+
+### CONNECT WITH ME:
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier_Peña-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jvaxpr)
+
+
+### LANGUAGES AND TOOLS:
+
+[![My Skills](https://skillicons.dev/icons?i=js,cs,git,py,mysql,aws)](https://skillicons.dev)
