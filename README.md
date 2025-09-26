@@ -22,3 +22,10 @@
 ### LANGUAGES AND TOOLS:
 
 [![My Skills](https://skillicons.dev/icons?i=js,cs,git,py,mysql,aws)](https://skillicons.dev)
+
+
+⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
