@@ -23,6 +23,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,cs,git,py,mysql,aws)](https://skillicons.dev)
 
+
 ⚡ Recent Activity
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:last_update-->
